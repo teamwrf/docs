@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Track in WRF output
-permalink: /trackplot/
+permalink: /track/
 navigation_weight: 3
 ---
 
