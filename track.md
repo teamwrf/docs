@@ -2,7 +2,7 @@
 layout: page
 title: Track in WRF output
 permalink: /track/
-navigation_weight: 3
+navigation_weight: 4
 ---
 
 ``` python
